@@ -2,7 +2,6 @@
 # INF1340 Section 1
 # Fall-2017
 # Shanti Kawlay
-# Gauri Kawlay
 
 
 def load_data(file, inventory, records):
